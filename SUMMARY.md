@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Fair and Explainable AI](README.md)
+* [Cloud Environment Setup](untitled.md)
 
