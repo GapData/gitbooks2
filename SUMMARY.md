@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fair and Explainable AI](README.md)
+* [Fair and Explainable ML](README.md)
 * [Cloud Environment Setup](untitled.md)
 * [17 Sept - Removing Unfair Bias in Machine Learning](17-sept-removing-unfair-bias-in-machine-learning.md)
 * [18 Sept - Explain Machine Learning Models](18-sept-explain-machine-learning-models.md)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Get ready to follow along with the Removing Bias in ML and Explain ML
+  workshops on 17-18 Sept by Margriet Groenendijk
+---
+
 # Cloud Environment Setup
 
 ## Get a free IBM Cloud account <a id="get-a-free-ibm-cloud-account"></a>
