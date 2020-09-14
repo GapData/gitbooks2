@@ -16,9 +16,10 @@ I will try to help you when you have issues with the setup, but as time is limit
 
 Find the detailed instructions to set up a Cloud environment [here](https://margriet-groenendijk.gitbook.io/odsc-2020/untitled)
 
-When you in Watson Studio 
+Then choose one of the below workshops:
 
-Removing 
+* [Removing Unfair Bias in Machine Learning](https://margriet-groenendijk.gitbook.io/odsc-2020/17-sept-removing-unfair-bias-in-machine-learning) \(17 September\)
+* [Explain Machine Learning Models ](https://margriet-groenendijk.gitbook.io/odsc-2020/18-sept-explain-machine-learning-models)\(18 September\)
 
 
 
