@@ -10,7 +10,13 @@ I will try to help you when you have issues with the setup, but as time is limit
 
 ## Getting Started
 
-Find the detailed instructions [here](https://margriet-groenendijk.gitbook.io/odsc-2020/untitled)
+Find the detailed instructions to set up a Cloud environment [here](https://margriet-groenendijk.gitbook.io/odsc-2020/untitled)
+
+When you in Watson Studio 
+
+Removing 
+
+
 
 
 

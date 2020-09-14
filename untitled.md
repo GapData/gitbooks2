@@ -54,5 +54,27 @@ In the Resources list click on **Watson Studio** and then on **Get Started** in 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MFAEq_Dxo1LQbJu5R2R%2F-MFjvifiPqb2yiLofax-%2F-MFjwt7u6LAFxku0EYZI%2FScreenshot%202020-08-27%20at%2013.44.03.png?alt=media&token=66776c12-92f7-4e08-9c6e-9f9a76995b1c)
 
-This will open a new Tab in your browser. You are now ready to follow along with the hands-on workshop in Watson Studio!
+This will open a new Tab in your browser where you should now see the below screen:
+
+![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
+
+## Jupyter notebooks in Watson Studio <a id="jupyter-notebooks-in-watson-studio"></a>
+
+Let's start by setting up a project where you can store data, notebooks and many other assets.
+
+Within the project we will use Jupyter notebooks that allow you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
+
+### Create a project <a id="create-a-project"></a>
+
+Click on **Start working** to create a project that will contain all the assets for this workshop:
+
+![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56%20%281%29.png)
+
+In the next screen click on **Create an empty project**. Then give your new project a name and click on Create in the bottom right:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-10.50.45.png)
+
+Your previously created Object Storage should be added automatically as above. But it is possible you have to select it from a drop-down menu first.
+
+**Welcome to your new project!** Here you can store notebooks, data and much more. You can also add collaborators, schedule jobs and customise runtime environments. 
 
