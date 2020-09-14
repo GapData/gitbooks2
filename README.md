@@ -1,3 +1,7 @@
+---
+description: workshop material
+---
+
 # Fair and Explainable AI
 
 You can find all material for the workshops on fair and explainable AI here. Both workshops will be using a Jupyter notebook that you can either run on your own machine or in Watson Studio on the IBM Cloud. 
