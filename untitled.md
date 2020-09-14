@@ -1,10 +1,16 @@
+---
+description: >-
+  Get ready to follow along with the Removing Bias in ML and Explain ML
+  workshops on 17-18 Sept by Margriet Groenendijk
+---
+
 # Cloud Environment Setup
 
 ## Get a free IBM Cloud account <a id="get-a-free-ibm-cloud-account"></a>
 
 To follow along with the workshop start by signing up for a free Cloud account. Click on the below link and fill in the form. You will receive a verification code by email, so please use a real address.
 
-sign up for a free IBM Cloud account: [http://ibm.biz/odsc\_ibm\_aiworkshop](http://ibm.biz/odsc_ibm_aiworkshop)
+Sign up for a free IBM Cloud account: [http://ibm.biz/odsc\_ibm\_aiworkshop](http://ibm.biz/odsc_ibm_aiworkshop)
 
 Once your account is verified and set up, you will see this welcome screen. Click on the 🍔 in the top left corner to expand the contents list. At the top you can find more information about your account, documentation and available resources and services.
 
