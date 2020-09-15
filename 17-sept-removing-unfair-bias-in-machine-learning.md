@@ -2,13 +2,15 @@
 
 ## Getting started
 
-Start by setting up your free Cloud environment [here](https://margriet-groenendijk.gitbook.io/odsc-2020/untitled)
+Start by setting up your free Cloud environment by following [these instructions](https://margriet-groenendijk.gitbook.io/odsc-2020/untitled).
 
 When you have created a Project in Watson Studio the next step is to add a Jupyter notebook with the workshop content.
 
+Click on **Add to project** at the top right.
+
 ![](.gitbook/assets/screenshot-2020-09-15-at-08.55.10.png)
 
-Click on **Add to project** at the top right and you will see the below menu with a list of all assets you can add. Click on **Notebook** to add one.
+ You will see the below menu with a list of all assets you can add. Click on **Notebook** to add one.
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
 
