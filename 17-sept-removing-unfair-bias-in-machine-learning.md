@@ -2,7 +2,7 @@
 description: 'https://odsc.com/speakers/removing-unfair-bias-in-machine-learning/'
 ---
 
-# 17 Sept - Removing Unfair Bias in Machine Learning
+# 17 Sept \(11:30 BST\) - Removing Unfair Bias in Machine Learning
 
 AI can embed human and societal bias and be then deployed at scale. Many algorithms are now being reexamined due to illegal bias. So how do you remove bias & discrimination in the machine learning pipeline? In this workshop you will learn the debiasing techniques that can be implemented by using the open source toolkit AI Fairness 360.
 

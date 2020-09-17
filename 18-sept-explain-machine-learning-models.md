@@ -1,2 +1,2 @@
-# 18 Sept - Explain Machine Learning Models
+# 18 Sept \(11:30 BST\) - Explain Machine Learning Models
 

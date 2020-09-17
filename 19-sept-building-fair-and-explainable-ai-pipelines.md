@@ -1,2 +1,2 @@
-# 19 Sept - Building Fair and Explainable AI Pipelines
+# 19 Sept \(11:10 BST\) - Building Fair and Explainable AI Pipelines
 
