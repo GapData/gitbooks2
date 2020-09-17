@@ -37,7 +37,7 @@ _Short break to discuss and chat in the slack channel_
 
 ### Some house keeping
 
-To go through the workshop material smoothly it will be easiest when we all use the same setup, especially as it will be harder to help you straight away when you might get stuck during this virtual event. Of course feel free to use your own local machine when you are comfortable with environments and installing missing packages to run the Jupyter notebook.
+To go through the workshop material smoothly it will be easiest when we all use the same setup, especially as it will be harder to help you straight away when you might get stuck during this virtual event. Of course feel free to use your own local machine when you are comfortable with environments and installing missing packages to run the Jupyter notebook \(you can find the link below\).
 
 {% hint style="warning" %}
 I will try to help you when you have issues with the setup, but as time is limited during the workshop it is possible I have to do this later through the ODSC slack channels. Two of my fellow developer advocates will also be in the slack channel to help answer questions. I will be there for the full conference.
@@ -61,9 +61,9 @@ Click on **Add to project** at the top right.
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-11.22.15.png)
 
-To load the first notebook for this workshop, select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default. 
+To load the first notebook for this workshop, select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default.  
 
-`https://github.com/xxx.ipynb`
+`https://github.com/MargrietGroenendijk/gitbooks2/blob/master/files/odsc-bias-ml.ipynb`
 
 ### Running a notebook
 
