@@ -1,9 +1,46 @@
+---
+description: 'https://odsc.com/speakers/removing-unfair-bias-in-machine-learning/'
+---
+
 # 17 Sept - Removing Unfair Bias in Machine Learning
 
-To go through the workshop material smoothly it will be easiest when we all use the same setup, especially as it will be harder to help you straight away when you might get stuck during this virtual event. Of course feel free to use your own local machine when you are comfortable with environments and installing missing packages.
+AI can embed human and societal bias and be then deployed at scale. Many algorithms are now being reexamined due to illegal bias. So how do you remove bias & discrimination in the machine learning pipeline? In this workshop you will learn the debiasing techniques that can be implemented by using the open source toolkit AI Fairness 360.
+
+AI Fairness 360 \(AIF360\) is an extensible, open source toolkit for measuring, understanding, and removing AI bias. It contains the most widely used bias metrics, bias mitigation algorithms, and metric explainers from the top AI fairness researchers across industry & academia.
+
+### Session Outline
+
+1. Introduction
+
+2. Bias definitions
+
+* 2.1 Bias and variance
+* 2.2 Statistical vs. cognitive bias
+
+3. AI fairness metrics
+
+* 3.1 Install aif360 and import packages
+* 3.2 Exploring data
+* 3.3 Exploring bias
+
+_Short break to discuss and chat in the slack channel_
+
+4. Model building
+
+* 4.1 Train on the original data
+
+5. AI fairness algorithms
+
+* 5.1 Pre-processing
+* 5.2 In-processing
+* 5.3 Post-processing
+
+### Some house keeping
+
+To go through the workshop material smoothly it will be easiest when we all use the same setup, especially as it will be harder to help you straight away when you might get stuck during this virtual event. Of course feel free to use your own local machine when you are comfortable with environments and installing missing packages to run the Jupyter notebook.
 
 {% hint style="warning" %}
-I will try to help you when you have issues with the setup, but as time is limited during the workshop it is possible I have to do this later through the ODSC slack channels. I will be there for the full conference.
+I will try to help you when you have issues with the setup, but as time is limited during the workshop it is possible I have to do this later through the ODSC slack channels. Two of my fellow developer advocates will also be in the slack channel to help answer questions. I will be there for the full conference.
 {% endhint %}
 
 ## Getting started
