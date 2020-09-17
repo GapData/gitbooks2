@@ -20,7 +20,7 @@ Click on **Add to project** at the top right.
 
 To load the first notebook for this workshop, select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default. 
 
-`https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/1-remove-bias.ipynb`
+`https://github.com/xxx.ipynb`
 
 ### Running a notebook
 
