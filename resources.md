@@ -17,7 +17,7 @@ At [our UK meetup](https://www.meetup.com/IBM-Code-London) group where we host w
 
 From our [developer site](https://developer.ibm.com/) where you can find tutorials, code examples, articles and more
 
-At our [CODE@THINK](https://www.ibm.com/uk-en/events/think-summit/) event on 7 October
+At our [CODE@THINK](https://www.ibm.com/uk-en/events/think-summit/codeatthink.html) event on 7 October
 
 Or through these resources \(more will be added\):
 
